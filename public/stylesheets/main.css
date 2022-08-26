@@ -68,7 +68,7 @@ p.hihowareyou {background-image: url('../assets/orange-line.png'); background-si
 
 
 img.shadow {text-shadow: 12px 12px 12px black;
-filter: drop-shadow(1px -1px 1px gray);}
+filter: drop-shadow(1px -1px 1px white);}
 img.center {margin: auto;}
 
 .right {width: 66%; position: relative; left: 34%;}
